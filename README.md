@@ -1,7 +1,7 @@
 # AIM :
 ## To interpret the functionalities of media queries in html and css.
 ## Developed By : guntur shaik mohammad shahil
-## Register Number : 23011002
+## Register Number : 212223240044
 # Objective 1 :
 ### Using CSS media queries to modify the webpage's color scheme.
 ## Step 1 :
